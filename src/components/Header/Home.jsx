@@ -26,7 +26,7 @@ function Home() {
                     </div>
                 </div>
                 <div className='md:col-span-2 flex justify-center mt-20'>
-                    <img src={ YashWardhan } className='shadow-md rounded-full max-w-full h-auto align-middle border-gray-600 hover:shadow-2xl hover:scale-110 cursor-pointer ease-in-out transition duration-300  sm:w-[250px] hover:rotate-6 w-[75%]'/>
+                    <img alt="Yash Wardhan" src={ YashWardhan } className='shadow-md rounded-full max-w-full h-auto align-middle border-gray-600 hover:shadow-2xl hover:scale-110 cursor-pointer ease-in-out transition duration-300  sm:w-[250px] hover:rotate-6 w-[75%]'/>
                 </div>
             </div>
     </div>
