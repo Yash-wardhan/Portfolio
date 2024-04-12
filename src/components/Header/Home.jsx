@@ -3,7 +3,6 @@ import {  BsLinkedin, BsQuora } from 'react-icons/bs'
 import {  FiGithub } from 'react-icons/fi'
 import {  FaTelegramPlane } from 'react-icons/fa'
 import YashWardhan from '../Header/Images/YashWardhan.jpg'
-import Tour from 'reactour'
 
 function Home() {
   return (
