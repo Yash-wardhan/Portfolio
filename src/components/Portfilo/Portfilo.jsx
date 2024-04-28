@@ -7,7 +7,7 @@ function Portfilo() {
          {/* Qualification & Personel Journey  */}
          <div className='flex flex-col justify-center items-center mt-4 py-20 px-4'>
             <h2 className='text-5xl font-extrabold'>Qualification</h2>
-            <h3 className='mt-4 font-bold text-gray-600'>My Personel Journey</h3>
+            <h3 className='mt-4 font-bold text-gray-600'>My Personal Journey</h3>
          </div>
          <div className='flex justify-center items-center flex-col mt-7 py-4 px-4'>
                {/* Eduction & Experience  */}
