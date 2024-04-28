@@ -67,13 +67,6 @@ function Portfilo() {
                                         <p className='text-xs font-semibold text-gray-500'>Dr. D.Y.Patil Pratishthans Dr.D.Y.Patil Institute <br /> of Management Studies,Pune</p>
                                         <p className='flex items-center mt-2 gap-2 text-xs font-semibold'><BsCalendarDate size={15}/>2021 - 2023</p>
                                 </div>
-
-                                <div className='gap-10 py-5 px-2'>
-                                    <h4 className='text-xl font-bold'>Bachelor of Computer Application</h4>
-                                    <p className='text-xs font-semibold text-gray-500'>Institute of Management Studies,Noida</p>
-                                    <p className='flex items-center mt-2 gap-2 text-xs font-semibold'><BsCalendarDate size={15}/>2017 - 2020</p>
-                                </div>
-
                                 <div className='gap-10 py-5 px-2'>
                                     <h4 className='text-xl font-bold'>+2 Secondary,School</h4>
                                     <p className='text-xs font-semibold text-gray-500'>Patna Central School,Patna,Bihar</p>
